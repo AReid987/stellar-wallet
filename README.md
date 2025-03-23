@@ -1,4 +1,0 @@
-# Stellar Community Wallet
-
-## 
-
